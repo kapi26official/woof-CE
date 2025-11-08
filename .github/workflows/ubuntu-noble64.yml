@@ -1,4 +1,4 @@
-name: ubuntu-noble64
+name: ubuntu-kapi64
 
 on:
   schedule:
